@@ -1,2 +1,1 @@
-# PreCourse-Henry23
-Este es un repositorio de  introducción a la programación.
+Este proyecto es mi entrenamiento para ser un buen programador
